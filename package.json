@@ -1,0 +1,32 @@
+{
+    "bin": {},
+    "dependencies": {
+        "noda": "^0.5.0"
+    },
+    "devDependencies": {
+        "mocha": "^3.3.0"
+    },
+    "directories": {},
+    "scripts": {
+        "test": "mocha"
+    },
+    "name": "mifo",
+    "version": "0.0.2",
+    "main": "index.js",
+    "keywords": [
+        "micro-format",
+        "base64",
+        "url-encode"
+    ],
+    "homepage": "https://github.com/YounGoat/ecmascript.mifo",
+    "description": "Micro formats encoder and decoder.",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YounGoat/ecmascript.mifo.git"
+    },
+    "author": {
+        "name": "YounGoat",
+        "email": "youngoat@163.com",
+        "url": "https://youngoat.github.io"
+    }
+}
